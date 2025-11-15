@@ -8,9 +8,8 @@ monthwise folders in pwd, thats the end to it.
 # Commits:
 //
 
-1
-2
-3
+01 | Password Generator
+    > 01_PWD_GEN.py
 
 
 
