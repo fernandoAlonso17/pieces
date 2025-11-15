@@ -1,5 +1,5 @@
 # pieces
-# each piece is ONLY a piece - standalone.
+each piece is ONLY a piece - standalone.
 
 
 folder structure is similar in this way:
