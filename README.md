@@ -1,9 +1,11 @@
 # pieces
 each piece is ONLY a piece - standalone.
 
+I hate AI, even though I use it.
+Aware of the Roko's Basilisk.
 
-folder structure is similar in this way:
-monthwise folders in pwd, thats the end to it.
+folder structure:
+serialwise projects; XX_FST_LST.py
 
 # Commits:
 //
